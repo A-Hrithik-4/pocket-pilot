@@ -15,7 +15,7 @@ Features
 * View total repayment amount
 * Simulate extra monthly payments
 * Estimate potential interest savings
-* Interactive sliders and real-time calculations
+* Interactive sliders with real-time calculations
 
 💰 Expense Tracker
 
@@ -25,7 +25,7 @@ Features
 * Category-wise expense breakdown
 * Delete individual expenses
 * Clear all expenses
-* Data stored locally in browser
+* Local browser storage support
 
 📄 Export Options
 
@@ -66,9 +66,7 @@ Expense Tracker
 
 Live Demo
 
-Vercel Deployment:
-
-(Add Vercel URL Here)
+https://pocket-pilot-murex.vercel.app/
 
 ⸻
 
@@ -86,7 +84,7 @@ Project Name: Pocket Pilot
 
 One-line Description:
 
-A personal finance dashboard that helps users calculate loan EMIs and manage expenses in one place.
+A personal finance dashboard that helps users calculate loan EMIs, simulate repayment strategies, and manage expenses in one place.
 
 Built for the Digital Heroes Custom Software Developer Trial Task.
 
