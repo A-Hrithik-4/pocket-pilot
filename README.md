@@ -1,95 +1,101 @@
-Pocket Pilot
+# Pocket Pilot
 
 Pocket Pilot is a lightweight personal finance dashboard that combines an EMI Calculator and Expense Tracker into a single, easy-to-use web application.
 
 Built using HTML, CSS, and JavaScript, the application helps users estimate loan repayments, understand borrowing costs, and monitor daily expenses through a clean and responsive interface.
 
-⸻
+---
 
-Features
+## Features
 
-🏦 EMI Calculator
+### 🏦 EMI Calculator
 
-* Calculate monthly EMI instantly
-* View total interest payable
-* View total repayment amount
-* Simulate extra monthly payments
-* Estimate potential interest savings
-* Interactive sliders with real-time calculations
+- Calculate monthly EMI instantly
+- View total interest payable
+- View total repayment amount
+- Simulate extra monthly payments
+- Estimate potential interest savings
+- Interactive sliders with real-time calculations
 
-💰 Expense Tracker
+### 💰 Expense Tracker
 
-* Add and categorize expenses
-* Track total spending
-* View expense history
-* Category-wise expense breakdown
-* Delete individual expenses
-* Clear all expenses
-* Local browser storage support
+- Add and categorize expenses
+- Track total spending
+- View expense history
+- Category-wise expense breakdown
+- Delete individual expenses
+- Clear all expenses
+- Local browser storage support
 
-📄 Export Options
+### 📄 Export Options
 
-* Download EMI reports
-* Download expense reports
-* Export as PDF
-* Export as Word Document
+- Download EMI reports
+- Download expense reports
+- Export as PDF
+- Export as Word Document
 
-✨ User Experience
+### ✨ User Experience
 
-* Responsive design
-* Mobile-friendly interface
-* Interactive animations
-* Toast notifications
-* Confirmation modals
-* Modern dashboard layout
+- Responsive design
+- Mobile-friendly interface
+- Interactive animations
+- Toast notifications
+- Confirmation modals
+- Modern dashboard layout
 
-⸻
+---
 
-Tech Stack
+## Tech Stack
 
-* HTML5
-* CSS3
-* Vanilla JavaScript
-* Local Storage API
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Local Storage API
 
-⸻
+---
 
-Screenshots
+## Screenshots
 
-Home Dashboard
+### Home Dashboard
 
-EMI Calculator
+![Home Dashboard](./screenshots/home.png)
 
-Expense Tracker
+### EMI Calculator
 
-⸻
+![EMI Calculator](./screenshots/emi-calculator.png)
 
-Live Demo
+### Expense Tracker
 
-https://pocket-pilot-murex.vercel.app/
+![Expense Tracker](./screenshots/expense-tracker.png)
 
-⸻
+---
 
-Developer
+## Live Demo
 
-Hrithik
+🌐 https://pocket-pilot-murex.vercel.app/
+
+---
+
+## Developer
+
+**Hrithik**
 
 📧 hrithik18a@gmail.com
 
-⸻
+---
 
-Trial Task Submission
+## Trial Task Submission
 
-Project Name: Pocket Pilot
+**Project Name:** Pocket Pilot
 
-One-line Description:
+**One-Line Description:**
 
 A personal finance dashboard that helps users calculate loan EMIs, simulate repayment strategies, and manage expenses in one place.
 
-Built for the Digital Heroes Custom Software Developer Trial Task.
+**Built for the Digital Heroes Custom Software Developer Trial Task.**
 
-⸻
+---
 
-License
+## License
 
 This project was developed for evaluation and portfolio purposes.
